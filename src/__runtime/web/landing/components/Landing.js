@@ -6,7 +6,7 @@ export default class Landing extends React.Component {
       <div
         style={{
           height: '100vh',
-          backgroundColor: 'green',
+          backgroundColor: 'blue',
         }}
       />
     );

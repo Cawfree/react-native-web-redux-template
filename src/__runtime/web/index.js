@@ -5,8 +5,6 @@ import { Provider } from 'react-redux';
 import { BrowserRouter as Router } from 'react-router-dom';
 import { PersistGate } from 'redux-persist/es/integration/react';
 
-import firebase from 'firebase';
-
 import configureStore from './../../configureStore';
 
 import * as serviceWorker from './register-service-worker';

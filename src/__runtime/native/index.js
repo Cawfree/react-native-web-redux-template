@@ -5,8 +5,6 @@ import { Provider } from 'react-redux';
 import { Router, Stack } from 'react-native-router-flux';
 import { PersistGate } from 'redux-persist/es/integration/react';
 
-import firebase from 'react-native-firebase';
-
 import { Root, StyleProvider } from 'native-base';
 
 import Routes from './routes/index';

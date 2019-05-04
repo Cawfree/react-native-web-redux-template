@@ -1,9 +1,6 @@
 import {Map} from 'immutable';
 
-const initialState = Map(
-  {
-
-  },
-);
+const initialState = Map({
+});
 
 export default initialState;
